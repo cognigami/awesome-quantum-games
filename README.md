@@ -1,5 +1,5 @@
 # awesome-quantum-games
-A a curated list of games whose core mechanics are based on quantum mechanics. 
+A curated list of games whose core mechanics are based on quantum mechanics. 
 
 # Arcade games
  * [Quantris](https://quantris.io)
