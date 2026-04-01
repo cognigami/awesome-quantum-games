@@ -10,11 +10,11 @@ A curated list of games whose core mechanics are based on quantum mechanics.
  * [Quantum Chess](https://chess.quantumnative.io)
  * [TiqTaqToe](https://tiqtaqtoe.com)
  * [Cheqqers](https://cheqqers.com)
- * [Erratiq](https://erratiq.xyz/staging/)
 
 # Puzzle games
  * [Quantum
  Odyssey](https://store.steampowered.com/app/2802710/Quantum_Odyssey/) (Steam)
+ * [Erratiq](https://erratiq.xyz/staging/)
 
 # Build your own
 The following libraries can help you get started to build your own.
