@@ -12,6 +12,7 @@ A curated list of games whose core mechanics are based on quantum mechanics.
  * [Cheqqers](https://cheqqers.com)
 
 # Puzzle games
+ * [The Qubit Factory](https://www.qubitfactory.io)
  * [Quantum
  Odyssey](https://store.steampowered.com/app/2802710/Quantum_Odyssey/) (Steam)
  * [Erratiq](https://erratiq.xyz/staging/)
