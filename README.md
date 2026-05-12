@@ -21,6 +21,6 @@ A curated list of games whose core mechanics are based on quantum mechanics.
 The following libraries can help you get started to build your own.
 | Library  | Platforms | Docs |
 |----------|-----------|------|
-| [Quantum Forge](https://github.com/quantum-native/quantum-forge?tab=readme-ov-file) | Web/TypeScript, Unity, C++/C | [on Github](https://github.com/quantumlib/unitary/tree/main/docs/unitary) |
-| [Unitary](https://github.com/quantumlib/unitary) | Python | [quantum.dev](https://quantum.dev) |
+| [Quantum Forge](https://github.com/quantum-native/quantum-forge?tab=readme-ov-file) | Web/TypeScript, Unity, C++/C | [quantum.dev](https://quantum.dev) |
+| [Unitary](https://github.com/quantumlib/unitary) | Python | [on Github](https://github.com/quantumlib/unitary/tree/main/docs/unitary) |
 
