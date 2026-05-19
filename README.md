@@ -3,7 +3,7 @@ A curated list of games whose core mechanics are based on quantum mechanics.
 
 # Arcade games
  * [Quantris](https://quantris.io)
- * [Ponq](https://ponq.quantumrealmgames.com)
+ * [Ponq](https://ponq.quantumnative.io)
  * [Bloch Invaders](https://bloch.quantumnative.io)
 
 # Board games
